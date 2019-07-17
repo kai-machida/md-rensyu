@@ -73,3 +73,26 @@ hello. hello. hello. hello.
 - [区切り線](https://github.com/kai-machida/md-rensyu#区切り線)
   - 作成したGithubのマークダウンの見出しにカーソルを合わせて、左のリンクアイコン
   を右クリックして、**リンクのコピー**でその項目を直接リンクが得られる
+
+# コード
+
+- バッククォートは、[shift]+[@]キー
+- バッククォート3つの後ろに、言語を指定できる
+- csならc#
+- cならc言語
+- java
+- html
+
+```cs
+function x(){
+  Debug.Log("hello.");
+}
+```
+
+- インラインは、バッククォート1つで囲う。`Debug.Log()`はデバッグ表示
+
+# 画像
+
+![画像](figure_barrier_plate.png "fromいらすとや")
+
+[![画像](figure_barrier_plate.png "fromいらすとや")](https://www.irasutoya.com)
