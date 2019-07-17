@@ -96,3 +96,10 @@ function x(){
 ![画像](figure_barrier_plate.png "fromいらすとや")
 
 [![画像](figure_barrier_plate.png "fromいらすとや")](https://www.irasutoya.com)
+
+# テーブル
+
+|列見出し１|列見出し２|列見出し３|
+|:---|:---|:---|
+|左揃え|中央ぞろえ|右揃え|
+|0|data|data|
