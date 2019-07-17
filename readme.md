@@ -57,3 +57,19 @@ hello. hello. hello. hello.
 ***hello.hello.hello.***
 
 *日本語は斜体にならないことが多い*
+
+# ナンバリング
+
+1. item1
+1. item2
+1. item3
+1. item4
+
+# ハイパーリンク
+
+- https://unityroom.com
+- [ドットインストール](https://dotinstall.com)
+- [ドットインストール](https://dotinstall.com "動画学習サイト")
+- [区切り線](https://github.com/kai-machida/md-rensyu#区切り線)
+  - 作成したGithubのマークダウンの見出しにカーソルを合わせて、左のリンクアイコン
+  を右クリックして、**リンクのコピー**でその項目を直接リンクが得られる
