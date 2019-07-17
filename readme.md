@@ -1,5 +1,8 @@
 # 見出し１
 
+見出し１
+===
+
 パラグラフ＝段落＝pタグ
 
 改行＝brタグ＝半角スペース２つ以上
@@ -11,18 +14,20 @@ hello. hello. hello. hello.
 
 > hello. hello. hello. hello. hello. hello.
 hello. hello. hello. hello. hello. hello.
-hello. hello. hello. hello. hello. 
+hello. hello. hello. hello. hello.
 
 ## 区切り線
 
 ---
 - ハイフン３つ
+
 ___
 - アンダースコア３つ
 
 ***
 
 - アスタリスク３つ
+
 - - -
 
 - ハイフンスペース３つ
@@ -40,3 +45,15 @@ ___
 - item1
 - item2
 - item3
+hello. hello.
+hello. hello. hello. hello.
+
+
+
+
+#強調
+*hello.hello.hello.*
+＿hello.hello.hello.＿
+***hello.hello.hello.***
+
+*日本語は斜体にならないことが多い*
